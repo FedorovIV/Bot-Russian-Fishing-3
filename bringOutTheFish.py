@@ -70,6 +70,7 @@ def bringOutTheFish(RobIndex:int):
             return 1
         
     if (time.time() - startTime > 10):
+        pyautogui.keyUp('g')
         keyboard.send('space')
         logging.exception("Too long bringing out")
         return -1

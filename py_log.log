@@ -1,19 +1,145 @@
-INFO:root:All Coordinate of Popl is[373, 383, 393]
-ERROR:root:Too long find of Kleving rob
+2024-01-20 02:42:47,229 INFO Don't want to eat
+2024-01-20 02:42:53,392 INFO zabros was maden!
+2024-01-20 02:42:59,560 INFO zabros was maden!
+2024-01-20 02:43:05,387 INFO perezabros was maden!
+2024-01-20 02:43:05,642 INFO Don't want to eat
+2024-01-20 02:43:05,901 INFO Don't want to eat
+2024-01-20 02:43:06,105 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:43:19,816 INFO Rob is finded. It's 3
+2024-01-20 02:43:22,418 INFO We catched fish!!!
+2024-01-20 02:43:28,254 INFO perezabros was maden!
+2024-01-20 02:43:28,511 INFO Don't want to eat
+2024-01-20 02:43:28,766 INFO Don't want to eat
+2024-01-20 02:43:28,982 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:43:34,381 ERROR Num of popl bigger than NunFR
 NoneType: None
-WARNING:root:RobIndex in main is -1 after findKlev
-INFO:root:All Coordinate of Popl is[373, 383, 393]
-ERROR:root:Too long find of Kleving rob
+2024-01-20 02:43:34,872 INFO Rob is finded. It's 3
+2024-01-20 02:43:37,511 INFO We catched fish!!!
+2024-01-20 02:43:43,319 INFO perezabros was maden!
+2024-01-20 02:43:43,574 INFO Don't want to eat
+2024-01-20 02:43:43,821 INFO Don't want to eat
+2024-01-20 02:43:44,041 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:43:49,382 ERROR Num of popl bigger than NunFR
 NoneType: None
-WARNING:root:RobIndex in main is -1 after findKlev
-INFO:root:All Coordinate of Popl is[373, 383, 393]
-INFO:root:Rob is finded. It's 1
-INFO:root:We catched fish!!!
-INFO:root:All Coordinate of Popl is[373, 383, 393]
-ERROR:root:Too long find of Kleving rob
+2024-01-20 02:43:49,721 INFO Rob is finded. It's 1
+2024-01-20 02:43:52,333 INFO We catched fish!!!
+2024-01-20 02:43:58,153 INFO perezabros was maden!
+2024-01-20 02:43:58,431 INFO Don't want to eat
+2024-01-20 02:43:58,680 INFO Don't want to eat
+2024-01-20 02:43:58,881 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:44:00,401 ERROR Num of popl bigger than NunFR
 NoneType: None
-WARNING:root:RobIndex in main is -1 after findKlev
-INFO:root:All Coordinate of Popl is[373, 383, 393]
-ERROR:root:Too long find of Kleving rob
+2024-01-20 02:44:00,741 INFO Rob is finded. It's 1
+2024-01-20 02:44:03,377 INFO We catched fish!!!
+2024-01-20 02:44:09,185 INFO perezabros was maden!
+2024-01-20 02:44:09,451 INFO Don't want to eat
+2024-01-20 02:44:09,691 INFO Don't want to eat
+2024-01-20 02:44:09,891 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:44:15,393 ERROR Num of popl bigger than NunFR
 NoneType: None
-WARNING:root:RobIndex in main is -1 after findKlev
+2024-01-20 02:44:15,721 INFO Rob is finded. It's 1
+2024-01-20 02:44:18,463 INFO We catched fish!!!
+2024-01-20 02:44:24,296 INFO perezabros was maden!
+2024-01-20 02:44:24,561 INFO Don't want to eat
+2024-01-20 02:44:24,801 INFO Don't want to eat
+2024-01-20 02:44:25,021 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:44:55,125 ERROR Too long find of Kleving rob
+NoneType: None
+2024-01-20 02:44:55,125 WARNING RobIndex in main is -1 after findKlev
+2024-01-20 02:45:00,925 INFO perezabros was maden!
+2024-01-20 02:45:01,184 INFO Don't want to eat
+2024-01-20 02:45:01,429 INFO Don't want to eat
+2024-01-20 02:45:01,634 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:45:31,727 ERROR Too long find of Kleving rob
+NoneType: None
+2024-01-20 02:45:31,727 WARNING RobIndex in main is -1 after findKlev
+2024-01-20 02:45:37,544 INFO perezabros was maden!
+2024-01-20 02:45:39,628 INFO We have eat!
+2024-01-20 02:45:45,443 INFO perezabros was maden!
+2024-01-20 02:45:45,704 INFO Don't want to eat
+2024-01-20 02:45:45,944 INFO Don't want to eat
+2024-01-20 02:45:46,146 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:45:51,824 INFO Rob is finded. It's 1
+2024-01-20 02:45:54,576 INFO We catched fish!!!
+2024-01-20 02:46:00,368 INFO perezabros was maden!
+2024-01-20 02:46:00,625 INFO Don't want to eat
+2024-01-20 02:46:00,869 INFO Don't want to eat
+2024-01-20 02:46:01,064 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:46:16,854 INFO Rob is finded. It's 2
+2024-01-20 02:46:19,471 INFO We catched fish!!!
+2024-01-20 02:46:25,281 INFO perezabros was maden!
+2024-01-20 02:46:25,544 INFO Don't want to eat
+2024-01-20 02:46:25,794 INFO Don't want to eat
+2024-01-20 02:46:25,994 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:46:35,694 INFO Rob is finded. It's 3
+2024-01-20 02:46:38,304 INFO We catched fish!!!
+2024-01-20 02:46:44,133 INFO perezabros was maden!
+2024-01-20 02:46:44,399 INFO Don't want to eat
+2024-01-20 02:46:44,644 INFO Don't want to eat
+2024-01-20 02:46:44,854 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:46:53,808 INFO Rob is finded. It's 1
+2024-01-20 02:46:56,429 INFO We catched fish!!!
+2024-01-20 02:47:02,247 INFO perezabros was maden!
+2024-01-20 02:47:02,504 INFO Don't want to eat
+2024-01-20 02:47:02,764 INFO Don't want to eat
+2024-01-20 02:47:02,974 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:47:12,794 INFO Rob is finded. It's 3
+2024-01-20 02:47:15,414 INFO We catched fish!!!
+2024-01-20 02:47:21,219 INFO perezabros was maden!
+2024-01-20 02:47:21,487 INFO Don't want to eat
+2024-01-20 02:47:21,719 INFO Don't want to eat
+2024-01-20 02:47:21,924 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:47:50,775 INFO Rob is finded. It's 3
+2024-01-20 02:47:53,465 INFO We catched fish!!!
+2024-01-20 02:47:59,269 INFO perezabros was maden!
+2024-01-20 02:47:59,545 INFO Don't want to eat
+2024-01-20 02:47:59,785 INFO Don't want to eat
+2024-01-20 02:48:00,005 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:48:30,152 ERROR Too long find of Kleving rob
+NoneType: None
+2024-01-20 02:48:30,152 WARNING RobIndex in main is -1 after findKlev
+2024-01-20 02:48:35,942 INFO perezabros was maden!
+2024-01-20 02:48:36,220 INFO Don't want to eat
+2024-01-20 02:48:36,475 INFO Don't want to eat
+2024-01-20 02:48:36,692 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:49:06,727 ERROR Too long find of Kleving rob
+NoneType: None
+2024-01-20 02:49:06,727 WARNING RobIndex in main is -1 after findKlev
+2024-01-20 02:49:12,568 INFO perezabros was maden!
+2024-01-20 02:49:12,904 INFO Don't want to eat
+2024-01-20 02:49:13,158 INFO Don't want to eat
+2024-01-20 02:49:13,354 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:49:19,954 INFO Rob is finded. It's 2
+2024-01-20 02:49:22,620 INFO We catched fish!!!
+2024-01-20 02:49:28,465 INFO perezabros was maden!
+2024-01-20 02:49:28,725 INFO Don't want to eat
+2024-01-20 02:49:28,974 INFO Don't want to eat
+2024-01-20 02:49:29,186 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:49:59,302 ERROR Too long find of Kleving rob
+NoneType: None
+2024-01-20 02:49:59,302 WARNING RobIndex in main is -1 after findKlev
+2024-01-20 02:50:05,119 INFO perezabros was maden!
+2024-01-20 02:50:05,374 INFO Don't want to eat
+2024-01-20 02:50:05,630 INFO Don't want to eat
+2024-01-20 02:50:05,831 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:50:18,941 INFO Rob is finded. It's 2
+2024-01-20 02:50:21,593 INFO We catched fish!!!
+2024-01-20 02:50:27,376 INFO perezabros was maden!
+2024-01-20 02:50:27,621 INFO Don't want to eat
+2024-01-20 02:50:27,860 INFO Don't want to eat
+2024-01-20 02:50:28,051 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:50:56,879 INFO Rob is finded. It's 2
+2024-01-20 02:50:59,495 INFO We catched fish!!!
+2024-01-20 02:51:05,284 INFO perezabros was maden!
+2024-01-20 02:51:05,545 INFO Don't want to eat
+2024-01-20 02:51:05,780 INFO Don't want to eat
+2024-01-20 02:51:05,995 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:51:36,072 ERROR Too long find of Kleving rob
+NoneType: None
+2024-01-20 02:51:36,072 WARNING RobIndex in main is -1 after findKlev
+2024-01-20 02:51:41,854 INFO perezabros was maden!
+2024-01-20 02:51:42,135 INFO Don't want to eat
+2024-01-20 02:51:42,375 INFO Don't want to eat
+2024-01-20 02:51:42,600 INFO All Coordinate of Popl is[474, 484, 494]
+2024-01-20 02:52:10,160 ERROR No popl in FindKlevin rob
+NoneType: None

@@ -3,6 +3,10 @@ import time
 import keyboard
 import mouse
 import pyautogui
+import logging
+
+logging.basicConfig(level=logging.INFO, filename="py_log.log",filemode="w",
+                    format="%(asctime)s %(levelname)s %(message)s")
 
 TechPause = 0.1
 #######################################
@@ -47,6 +51,9 @@ def sdelat_zabros(x:int, y:int, NumFR:int):
         click(startpos + (i-1)*DisBP, y)    
          
         time.sleep(SleepAZ)
+
+    logging.info("zabros was maden!")
+
 #######################################
 #sleep after perezabros
 SleepAP = SleepAZ
@@ -59,3 +66,4 @@ def sdelat_perezabros(NumFR:int):
         time.sleep(TechPause*5)
         keyboard.send('t')
         time.sleep(SleepAP)
+    logging.info("perezabros was maden!")

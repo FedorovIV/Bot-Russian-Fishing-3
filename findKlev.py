@@ -4,8 +4,8 @@ import keyboard
 import logging
 
 #Params of logging
-logging.basicConfig(level=logging.INFO, filename="py_log.log",filemode="w")
-
+logging.basicConfig(level=logging.INFO, filename="py_log.log",filemode="w",
+                    format="%(asctime)s %(levelname)s %(message)s")
 
 #Techical pause
 TechPause = 0.1
@@ -103,6 +103,10 @@ def findKlev(x:int, y:int, NumFR):
         
         time.sleep(TechPause)
 
+        if (time.time() - startTime > MaxST):
+            logging.exception("Too long find of all coordinates")
+            return -1
+        
         # logging.info("Try to find all popl")
 
         coordsPopl = findPopl(KlevRegion)
@@ -114,9 +118,7 @@ def findKlev(x:int, y:int, NumFR):
             allCoordsPopl = coordsPopl
             break
 
-        if (time.time() - startTime > MaxST):
-            logging.exception("Too long find of all coordinates")
-            return -1
+
     ##########################################################
     
 
@@ -148,7 +150,7 @@ def findKlev(x:int, y:int, NumFR):
             continue
 
         if (len(coordsPopl) > NumFR):
-            logging.exception("Num of popl bigger than MunFR")
+            logging.exception("Num of popl bigger than NunFR")
             continue
         ################################################
         for i in range(0, len(allCoordsPopl)):
@@ -159,7 +161,8 @@ def findKlev(x:int, y:int, NumFR):
             if (not flag):
                 logging.info("Rob is finded. It's " + str(i+1))
                 return i+1
-        
+            
+    logging.error("logic ERROR in findKlev")    
     return -1
     
 
